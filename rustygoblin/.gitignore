@@ -1,0 +1,8 @@
+target/**
+*.lock
+*.tmp
+*.o
+*.d
+*.pyc
+out.pcap
+*.pcap
